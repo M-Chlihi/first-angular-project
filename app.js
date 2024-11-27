@@ -1,1 +1,1 @@
-alert(dont_worry);
+document.write("hello js")
